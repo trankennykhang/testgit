@@ -11,7 +11,7 @@ trait SayWorld {
         echo 'World!';
     }
 }
-
+#abc
 class MyHelloWorld extends Base {
     use SayWorld;
     public function sayHello1(){
